@@ -2566,7 +2566,15 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
-typeorm@^0.2.29:
+typeorm-pagination@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/typeorm-pagination/-/typeorm-pagination-2.0.1.tgz#90d77836d07169043a3c620026db1929a2bd9e45"
+  integrity sha512-UQyyiEqViz7ccNJHmwnkaRedWDi/4DYiM5y308z98277qXI6qSlYsTxRjloCPj9U3hScXGY0yuyG8N9mP/R4rg==
+  dependencies:
+    express "^4.17.1"
+    typeorm "^0.2.25"
+
+typeorm@^0.2.25, typeorm@^0.2.29:
   version "0.2.29"
   resolved "https://registry.yarnpkg.com/typeorm/-/typeorm-0.2.29.tgz#401289dc91900d72eccb26e31cdb7f0591a2272e"
   integrity sha512-ih1vrTe3gEAGKRcWlcsTRxTL7gNjacQE498wVGuJ3ZRujtMqPZlbAWuC7xDzWCRjQnkZYNwZQeG9UgKfxSHB5g==
