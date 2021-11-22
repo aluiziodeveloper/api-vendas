@@ -1649,10 +1649,10 @@ chokidar@^3.4.0:
   optionalDependencies:
     fsevents "~2.1.2"
 
-class-transformer@^0.3.1:
-  version "0.3.1"
-  resolved "https://registry.yarnpkg.com/class-transformer/-/class-transformer-0.3.1.tgz#ee681a5439ff2230fc57f5056412d3befa70d597"
-  integrity sha512-cKFwohpJbuMovS8xVLmn8N2AUbAuc8pVo4zEfsUVo8qgECOogns1WVk/FkOZoxhOPTyTYFckuoH+13FO+MQ8GA==
+class-transformer@^0.5.0:
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/class-transformer/-/class-transformer-0.5.0.tgz#4b599307707dc1c0bb785e995303d59afbed605c"
+  integrity sha512-ONKKYWNXc1IxBqmTeQZCArFryPG/w4ilHd5Mn4Y/NJlkAlAG4UWUcrnPbfSym0eZBr0pj3i0MdZqyxGHCGlCdQ==
 
 class-utils@^0.3.5:
   version "0.3.6"
