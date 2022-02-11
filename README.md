@@ -7,15 +7,15 @@
 Informação sobre tecnologia, dicas, tutoriais, mini-cursos e muito mais.
 </h2>
 
-## API Restful com Node.js, Express, Typescript, TypeORM, Postgres, Redis, Docker, ...
+## API Restful com Node.js, Express, Typescript, etc
 
-Seja muito bem-vindo ao curso projeto prático de desenvolvimento de API Restful com Node.js, Express, Typescript, TypeORM, Postgres, Redis, Docker, ...
+Seja muito bem-vindo e bem-vinda ao curso projeto prático de desenvolvimento de API Restful com Node.js, Express, Typescript, TypeORM, Postgres, Redis, Docker, ...
 
 Ao longo dessa jornada construiremos uma aplicação backend para gestão de vendas com funcionalidades para criação de cadastro de produtos, cadastro de clientes, pedidos de compras e uma completa gestão de usuários da aplicação, com autenticação via Token JWT, recuperação de senha por email, atualização de perfil, atualização de avatar, e muito mais.
 
 Através do TypeORM implementaremos Entidades e Repositórios para cada recurso a ser consumido na API.
 
-[Acesse o curso no portal Udemy.](https://www.udemy.com/course/api-restful-de-vendas/?referralCode=6DDEF85A747CA5CC4135)
+Acesse a [página do curso na Udemy](https://www.udemy.com/course/api-restful-de-vendas/?referralCode=6DDEF85A747CA5CC4135) para conferir o conteúdo.
 
 ## Objetivo
 
@@ -45,10 +45,12 @@ npm install
 
 Após essa instalação execute a aplicação com o comando `yarn dev` ou `npm run dev`. O servidor estará em execução no endereço `http://localhost:3333`.
 
-## Contato
+## Redes Sociais
 
 [Site Aluizio Developer](https://aluiziodeveloper.com.br)
 
-[Instagram](https://www.instagram.com/smartcontacts/)
-
 [YouTube](https://www.youtube.com/jorgealuizio)
+
+[Servidor no Discord](https://discord.gg/3J87BMz5fD)
+
+[LinkedIn](https://www.linkedin.com/in/jorgealuizio/)
