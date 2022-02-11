@@ -44,7 +44,7 @@
     "aws-sdk": "^2.830.0",
     "bcryptjs": "^2.4.3",
     "celebrate": "^13.0.4",
-    "class-transformer": "^0.3.1",
+    "class-transformer": "^0.5.1",
     "cors": "^2.8.5",
     "date-fns": "^2.16.1",
     "dotenv": "^8.2.0",
@@ -58,7 +58,7 @@
     "nodemailer": "^6.4.17",
     "pg": "^8.5.1",
     "rate-limiter-flexible": "^2.1.16",
-    "redis": "^3.0.2",
+    "redis": "^4.0.0",
     "reflect-metadata": "^0.1.13",
     "typeorm": "^0.2.29",
     "typeorm-pagination": "^2.0.1"
