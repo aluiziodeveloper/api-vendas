@@ -1062,10 +1062,10 @@
     "@types/qs" "*"
     "@types/serve-static" "*"
 
-"@types/ioredis@^4.17.10":
-  version "4.17.10"
-  resolved "https://registry.yarnpkg.com/@types/ioredis/-/ioredis-4.17.10.tgz#63a99d9655b4f41682e627812ac1cbb2c0668ffa"
-  integrity sha512-1K6BE5oAuu+j8g0mMGDxFvEpbveI3w6aGtcaG3MgszofIGb5ms5xx7m+pgKiXb80c9kuwIaJMiNEeVOWZV3UiQ==
+"@types/ioredis@^4.28.9":
+  version "4.28.9"
+  resolved "https://registry.yarnpkg.com/@types/ioredis/-/ioredis-4.28.9.tgz#0da19b0be2f806364fbca23c49d610d782d459dc"
+  integrity sha512-0uclpMv1u5MeDohCnAvT8FPvCQt9WprBJRFhAatuaRDJpELzHyDg8bV+MCclFfYz0nAbVNO0xoWsud2/NhOJWg==
   dependencies:
     "@types/node" "*"
 
